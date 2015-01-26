@@ -1,0 +1,19 @@
+package krathsh;
+
+import junit.framework.Test;
+import junit.framework.TestSuite;
+
+
+public class AllTests {
+
+	public static Test suite() {
+		TestSuite suite = new TestSuite(AllTests.class.getName());
+		//$JUnit-BEGIN$
+		suite.addTestSuite(DomesticFlight.class);
+		suite.addTestSuite(PelatisTest.class);
+		suite.addTestSuite(RoomTest.class);
+		//$JUnit-END$
+		return suite;
+	}
+
+}

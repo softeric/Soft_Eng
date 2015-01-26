@@ -1,0 +1,17 @@
+2015-01-24 20:47:46,186 [Worker-3] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-24 20:47:46,368 [Worker-3] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:23027
+2015-01-24 20:54:11,027 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/jrebel,null}
+2015-01-24 20:54:29,718 [Worker-2] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-24 20:54:29,906 [Worker-2] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:23612
+2015-01-24 20:55:28,932 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/jrebel,null}
+2015-01-24 21:48:27,914 [Worker-3] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-24 21:48:28,043 [Worker-3] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:27739
+2015-01-26 14:19:40,346 [Worker-1] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-26 14:19:40,834 [Worker-1] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:12497
+2015-01-26 14:37:41,296 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/jrebel,null}
+2015-01-26 14:39:26,391 [Worker-3] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-26 14:39:26,572 [Worker-3] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:14066
+2015-01-26 15:08:09,099 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/jrebel,null}
+2015-01-26 15:43:34,940 [Worker-1] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-26 15:43:35,336 [Worker-1] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:19275
+2015-01-26 16:29:20,638 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/jrebel,null}

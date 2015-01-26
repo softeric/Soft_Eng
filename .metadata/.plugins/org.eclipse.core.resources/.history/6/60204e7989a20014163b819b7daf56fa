@@ -1,0 +1,16 @@
+package krathsh;
+
+import static org.junit.Assert.assertNotNull;
+
+import java.awt.*;
+import java.awt.event.*;
+
+public class ExitListener extends WindowAdapter 
+{
+	public void windowClosing(WindowEvent event) 
+	{
+		ExitListener exit = new ExitListener();
+		
+		assertNotNull(exit);
+	}
+}

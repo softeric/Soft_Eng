@@ -1,0 +1,14 @@
+package krathsh;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class PrintTicket1Test {
+
+	@Test
+	public void testPrintTicket1() {
+		fail("Not yet implemented");
+	}
+
+}
